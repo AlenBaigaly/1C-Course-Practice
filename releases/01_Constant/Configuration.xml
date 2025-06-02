@@ -117,6 +117,7 @@
 			<Constant>ГенеральныйДиректор</Constant>
 			<Constant>ИНН</Constant>
 			<CommonForm>ДанныеОрганизации</CommonForm>
+			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
