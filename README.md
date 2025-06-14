@@ -19,7 +19,7 @@
 
 - [01 — Константы](readmes/01_Constant.md)
 - [02 — Справочники](readmes/02_Directory.md)
-- [03-Доументы](readme/03_Document.md)
+- [03-Документы](readme/03_Document.md)
 - И так далее
 
 ---
